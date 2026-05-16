@@ -91,7 +91,7 @@ def fetch(commandline_args):
         next_page_button = driver.find_element(By.CSS_SELECTOR, 'button[data-testid=\'hacktivity-pagination--pagination-next-page\']')
         new_reports = []
         while True:
-            raw_reports = driver.find_elements(By.CLASS_NAME, 'routerlink')
+            raw_reports = driver.find_elements(By.CSS_SELECTOR, '.routerlink')
             new_reports += extract_reports(raw_reports)
             found = False
             for i in range(len(new_reports)):
