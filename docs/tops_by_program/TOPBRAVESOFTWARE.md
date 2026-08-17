@@ -15,7 +15,7 @@ Top reports from Brave Software program at HackerOne:
 13. [Lack of quarantine meta-attribute for downloaded files leads to GateKeeper bypass](https://hackerone.com/reports/374106) to Brave Software - 52 upvotes, $0
 14. [DNS Leaks when using any VPN Browser extension with Brave Shield enabled](https://hackerone.com/reports/1203842) to Brave Software - 51 upvotes, $0
 15. [Brave Shields Domain Reordering Leads to Origin Confusion](https://hackerone.com/reports/3665151) to Brave Software - 51 upvotes, $0
-16. [iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs](https://hackerone.com/reports/3693295) to Brave Software - 47 upvotes, $0
+16. [iOS Brave Playlist "Open in Private Tab" bypasses FaceID requirement for Private Tabs](https://hackerone.com/reports/3693295) to Brave Software - 48 upvotes, $0
 17. [`chrome://brave` available for navigation in Release build [-\> RCE] + navigation to `chrome://*` using tab_helper ["Open in new tab"]](https://hackerone.com/reports/395737) to Brave Software - 46 upvotes, $0
 18. [Brave Android: Incorrect URL Eliding in Brave Shields Pop Up](https://hackerone.com/reports/2501378) to Brave Software - 45 upvotes, $0
 19. [Local files reading using `link[rel="import"]`](https://hackerone.com/reports/375329) to Brave Software - 43 upvotes, $0
@@ -34,8 +34,8 @@ Top reports from Brave Software program at HackerOne:
 32. [XSS on Brave Today through custom RSS feed](https://hackerone.com/reports/1184379) to Brave Software - 24 upvotes, $0
 33. [URL Spoof / Brave Shield Bypass](https://hackerone.com/reports/255991) to Brave Software - 21 upvotes, $0
 34. [chrome://brave navigation from web](https://hackerone.com/reports/415967) to Brave Software - 21 upvotes, $0
-35. [DMARC RECORD MISSING](https://hackerone.com/reports/491753) to Brave Software - 20 upvotes, $0
-36. [Open redirect found on account.brave.com](https://hackerone.com/reports/1338437) to Brave Software - 20 upvotes, $0
+35. [Open redirect found on account.brave.com](https://hackerone.com/reports/1338437) to Brave Software - 21 upvotes, $0
+36. [DMARC RECORD MISSING](https://hackerone.com/reports/491753) to Brave Software - 20 upvotes, $0
 37. [Brave Browser permanently timestamps & logs connection times for all v2 domains ~/.config/BraveSoftware/Brave-Browser/tor/data/tor.log](https://hackerone.com/reports/1249056) to Brave Software - 19 upvotes, $0
 38. [S3 Bucket Takeover : brave-apt](https://hackerone.com/reports/1791558) to Brave Software - 19 upvotes, $0
 39. [No rate limiting for confirmation email lead to email flooding and leads to enumeration of emails in publishers.basicattentiontoken.org](https://hackerone.com/reports/854793) to Brave Software - 18 upvotes, $0

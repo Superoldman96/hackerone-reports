@@ -1,10 +1,10 @@
 Top Web Cache reports from HackerOne:
 
-1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 850 upvotes, $9700
+1. [DoS on PayPal via web cache poisoning](https://hackerone.com/reports/622122) to PayPal - 851 upvotes, $9700
 2. [Web cache poisoning attack leads to user information and more](https://hackerone.com/reports/492841) to Postmates - 343 upvotes, $500
 3. [Web Cache Poisoning leads to Stored XSS ](https://hackerone.com/reports/1424094) to Glassdoor - 133 upvotes, $0
-4. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) to GSA Bounty - 92 upvotes, $750
-5. [https://themes.shopify.com::: Host header web cache poisoning lead to DoS](https://hackerone.com/reports/1096609) to Shopify - 81 upvotes, $2900
+4. [Defacement of catalog.data.gov via web cache poisoning to stored DOMXSS](https://hackerone.com/reports/303730) to GSA Bounty - 93 upvotes, $750
+5. [https://themes.shopify.com::: Host header web cache poisoning lead to DoS](https://hackerone.com/reports/1096609) to Shopify - 82 upvotes, $2900
 6. [Web Cache Poisoning leads to XSS and DoS](https://hackerone.com/reports/1621540) to Glassdoor - 71 upvotes, $0
 7. [web cache deception in https://tradus.com lead to name/user_id enumeration and other info](https://hackerone.com/reports/537564) to OLX - 63 upvotes, $0
 8. [Web Cache Deception](https://hackerone.com/reports/2265400) to Glassdoor - 62 upvotes, $0

@@ -197,12 +197,12 @@
       "file": "tops_by_program/TOPWEBLATE.md"
     },
     {
-      "name": "Gratipay",
-      "file": "tops_by_program/TOPGRATIPAY.md"
-    },
-    {
       "name": "Node.js",
       "file": "tops_by_program/TOPNODEJS.md"
+    },
+    {
+      "name": "Gratipay",
+      "file": "tops_by_program/TOPGRATIPAY.md"
     },
     {
       "name": "Slack",
@@ -253,16 +253,16 @@
       "file": "tops_by_program/TOPUBIQUITIINC.md"
     },
     {
+      "name": "Rocket.Chat",
+      "file": "tops_by_program/TOPROCKETCHAT.md"
+    },
+    {
       "name": "ownCloud",
       "file": "tops_by_program/TOPOWNCLOUD.md"
     },
     {
       "name": "Pornhub",
       "file": "tops_by_program/TOPPORNHUB.md"
-    },
-    {
-      "name": "Rocket.Chat",
-      "file": "tops_by_program/TOPROCKETCHAT.md"
     }
   ]
 }

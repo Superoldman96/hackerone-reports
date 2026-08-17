@@ -2,7 +2,7 @@ Top reports from Legal Robot program at HackerOne:
 
 1. [Remote Code Execution (upload)](https://hackerone.com/reports/116575) to Legal Robot - 60 upvotes, $0
 2. [Subdomain takeover at api.legalrobot.com due to non-used domain in Modulus.io.](https://hackerone.com/reports/148770) to Legal Robot - 33 upvotes, $0
-3. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 32 upvotes, $0
+3. [Big XSS vulnerability!](https://hackerone.com/reports/216330) to Legal Robot - 33 upvotes, $0
 4. [Privilege Escalation to Admin-level Account](https://hackerone.com/reports/261285) to Legal Robot - 25 upvotes, $0
 5. [Bypass 8 chars password complexity with 6 chars only due to insecure password reset functionaliy](https://hackerone.com/reports/173195) to Legal Robot - 21 upvotes, $0
 6. [AWS hosting bucket for Legal Robots set as public browse and list contents: s3://legalrobot](https://hackerone.com/reports/166861) to Legal Robot - 21 upvotes, $0
@@ -12,12 +12,12 @@ Top reports from Legal Robot program at HackerOne:
 10. [Near-duplicate accounts allowed with ignored email mutations](https://hackerone.com/reports/171337) to Legal Robot - 15 upvotes, $0
 11. [Domain takeover (legalrobot.co.za)](https://hackerone.com/reports/230525) to Legal Robot - 15 upvotes, $0
 12. [2FA manual entry uses wrong encoding](https://hackerone.com/reports/260390) to Legal Robot - 15 upvotes, $0
-13. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 14 upvotes, $0
-14. [Legal Robot AWS S3 Bucket Directory Listing](https://hackerone.com/reports/194142) to Legal Robot - 14 upvotes, $0
-15. [content spoofing](https://hackerone.com/reports/167380) to Legal Robot - 13 upvotes, $0
-16. [2FA Error Handling on Google Authenticator](https://hackerone.com/reports/249695) to Legal Robot - 13 upvotes, $0
-17. [Code injection](https://hackerone.com/reports/257207) to Legal Robot - 13 upvotes, $0
-18. [Update any profile](https://hackerone.com/reports/260604) to Legal Robot - 13 upvotes, $0
+13. [Update any profile](https://hackerone.com/reports/260604) to Legal Robot - 14 upvotes, $0
+14. [Email Length Verification ](https://hackerone.com/reports/263589) to Legal Robot - 14 upvotes, $0
+15. [Legal Robot AWS S3 Bucket Directory Listing](https://hackerone.com/reports/194142) to Legal Robot - 14 upvotes, $0
+16. [content spoofing](https://hackerone.com/reports/167380) to Legal Robot - 13 upvotes, $0
+17. [2FA Error Handling on Google Authenticator](https://hackerone.com/reports/249695) to Legal Robot - 13 upvotes, $0
+18. [Code injection](https://hackerone.com/reports/257207) to Legal Robot - 13 upvotes, $0
 19. [TabNabbing issue (due to taget=_blank)](https://hackerone.com/reports/260278) to Legal Robot - 13 upvotes, $0
 20. [design issue exists on login page ](https://hackerone.com/reports/264101) to Legal Robot - 13 upvotes, $0
 21. [Information Disclosure on rate limit defense mechanism](https://hackerone.com/reports/172296) to Legal Robot - 12 upvotes, $0

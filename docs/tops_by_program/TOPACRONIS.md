@@ -10,7 +10,7 @@ Top reports from Acronis program at HackerOne:
 8. [SQL injection on admin.acronis.host development web service](https://hackerone.com/reports/923020) to Acronis - 118 upvotes, $250
 9. [Attacker Can Access to any Ticket Support on https://www.devicelock.com/support/](https://hackerone.com/reports/1124974) to Acronis - 109 upvotes, $0
 10. [Rate limit bypass on passport.acronis.work using X-Forwarded-For request header](https://hackerone.com/reports/2627062) to Acronis - 105 upvotes, $0
-11. [SQL injection in  https://www.acronis.cz/ via the log parameter](https://hackerone.com/reports/1109311) to Acronis - 102 upvotes, $0
+11. [SQL injection in  https://www.acronis.cz/ via the log parameter](https://hackerone.com/reports/1109311) to Acronis - 103 upvotes, $0
 12. [Flash Based Reflected XSS on www.grouplogic.com/jwplayer/player.swf](https://hackerone.com/reports/859806) to Acronis - 88 upvotes, $0
 13. [Reflected XSS on http://www.grouplogic.com/files/glidownload/verify.asp](https://hackerone.com/reports/859395) to Acronis - 84 upvotes, $0
 14. [Delete any user's added Email,Telephone,Fax,Address,Skype via csrf in (https://academy.acronis.com/)](https://hackerone.com/reports/709537) to Acronis - 82 upvotes, $0
@@ -31,9 +31,9 @@ Top reports from Acronis program at HackerOne:
 29. [Bypassing Recaptcha Protection in  `https://connect.acronis.com`](https://hackerone.com/reports/1655629) to Acronis - 54 upvotes, $0
 30. [DOM Based Cookie Bomb in *.acronis.com via x-clickref GET Parameter](https://hackerone.com/reports/1898305) to Acronis - 52 upvotes, $200
 31. [HTML Injection in E-mail](https://hackerone.com/reports/1536899) to Acronis - 52 upvotes, $0
-32. [Blind SSRF vulnerability on cz.acronis.com](https://hackerone.com/reports/1086206) to Acronis - 51 upvotes, $0
-33. [SQL injection in https://demor.adr.acronis.com/ via the username parameter](https://hackerone.com/reports/1436751) to Acronis - 48 upvotes, $0
-34. [IDOR on www.acronis.com API lead to steal private business user information](https://hackerone.com/reports/1182465) to Acronis - 47 upvotes, $100
+32. [Blind SSRF vulnerability on cz.acronis.com](https://hackerone.com/reports/1086206) to Acronis - 52 upvotes, $0
+33. [SQL injection in https://demor.adr.acronis.com/ via the username parameter](https://hackerone.com/reports/1436751) to Acronis - 49 upvotes, $0
+34. [IDOR on www.acronis.com API lead to steal private business user information](https://hackerone.com/reports/1182465) to Acronis - 48 upvotes, $100
 35. [Render content from untrusted sources via web_preview endpoint on Acronis Cloud](https://hackerone.com/reports/1848118) to Acronis - 46 upvotes, $200
 36. [admin password disclosure via log file ](https://hackerone.com/reports/1121972) to Acronis - 45 upvotes, $100
 37. [Stored XSS in profile page](https://hackerone.com/reports/1084183) to Acronis - 45 upvotes, $50
@@ -54,8 +54,8 @@ Top reports from Acronis program at HackerOne:
 52. [SSRF when configuring Website Backup on Acronis Cloud](https://hackerone.com/reports/1072873) to Acronis - 30 upvotes, $500
 53. [Local Privilege Escalation and Code Execution when restoring files from Quarantine](https://hackerone.com/reports/980500) to Acronis - 30 upvotes, $250
 54. [XSS in (Support Requests) : User Cases](https://hackerone.com/reports/961226) to Acronis - 30 upvotes, $50
-55. [Web cache poisoning at www.acronis.com](https://hackerone.com/reports/1010858) to Acronis - 29 upvotes, $0
-56. [Read-only administrator can change agent update settings](https://hackerone.com/reports/1538004) to Acronis - 29 upvotes, $0
+55. [Read-only administrator can change agent update settings](https://hackerone.com/reports/1538004) to Acronis - 29 upvotes, $200
+56. [Web cache poisoning at www.acronis.com](https://hackerone.com/reports/1010858) to Acronis - 29 upvotes, $0
 57. [XSS Stored in Cacheable  response](https://hackerone.com/reports/1011093) to Acronis - 28 upvotes, $0
 58. [mysql credentials exposed on - https://cz.acronis.com/docker-compose.yml](https://hackerone.com/reports/963384) to Acronis - 28 upvotes, $0
 59. [Cross Site Scripting (Reflected) on https://www.acronis.cz/](https://hackerone.com/reports/1084156) to Acronis - 27 upvotes, $50
